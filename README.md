@@ -49,7 +49,7 @@
 <div align="center">
 The latest version is always available via our official website.
   <br>
-  <a href="https://th3-anime.pages.dev">
+  <a href="https://github.com/Th3-C0der/Th3-Anime/releases/tag/v0.0.1-Beta">
     <img src="https://img.shields.io/badge/Download_APK-ff4757?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
 </div>
