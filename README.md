@@ -8,6 +8,8 @@
   [![Platform](https://img.shields.io/badge/Platform-Android?style=flat-square&logo=android)](https://th3-anime.pages.dev)
   [![Status](https://img.shields.io/badge/Status-Active-2ed573?style=flat-square)]()
   [![Buy Me A Coffee](https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/th3coder)
+  [![Buy Me A Chai](https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Chai-FFDDFF?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeachai.ezee.li/Th3Coder)
+  
 
   <p>
     <b>Th3-Anime</b> is a premium, high-performance mobile application designed for anime enthusiasts. Built with modern technology to deliver a seamless, ad-free streaming experience directly to your Android device.
@@ -44,14 +46,13 @@
 
 ## 📥 Download
 
-Th3-Anime will be released soon! It's currently in active development.
-
-<!-- <div align="center">
+<div align="center">
 The latest version is always available via our official website.
+  <br>
   <a href="https://th3-anime.pages.dev">
     <img src="https://img.shields.io/badge/Download_APK-ff4757?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
-</div> -->
+</div>
 
 ---
 
@@ -64,6 +65,12 @@ Th3-Anime is a passion project developed by **Th3-C0der**. If you enjoy the app 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://buymeachai.ezee.li/Th3Coder" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Chai-8B4513?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
 
 &copy; 2026 **Th3-C0der**. All Rights Reserved.
