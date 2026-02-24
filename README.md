@@ -9,7 +9,7 @@
   [![Status](https://img.shields.io/badge/Status-Active-2ed573?style=flat-square)]()
   [![Buy Me A Coffee](https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/th3coder)
   [![Buy Me A Chai](https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Chai-FFDDFF?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeachai.ezee.li/Th3Coder)
-  [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/JZAgYAqp)
+  [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Kzf3pMBQx2)
   
 
   <p>
