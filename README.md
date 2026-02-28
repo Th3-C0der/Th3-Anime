@@ -73,5 +73,20 @@ Th3-Anime is a passion project developed by **Th3-C0der**. If you enjoy the app 
   </a>
 </p>
 
+Add this section right before the **Support the Project** section (or after Download):
+
+---
+
+## ⚠️ Disclaimer
+
+**Th3-Anime does not host, upload, or store any anime content on its servers.**
+
+All anime titles, episodes, streams, and media files are provided by **third-party sources** publicly available on the internet. Th3-Anime acts solely as a **content discovery and streaming interface**.
+
+* We do **not** own any of the media content.
+* We do **not** control third-party servers.
+* If you are a copyright owner and believe your content should not be accessible through this app, please contact the respective hosting provider directly.
+
+By using this application, you acknowledge that all content is sourced from third-party services.
 
 &copy; 2026 **Th3-C0der**. All Rights Reserved.
