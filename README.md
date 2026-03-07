@@ -2,18 +2,17 @@
   <img src="https://th3-anime.pages.dev/images/logo.svg" alt="Th3-Anime Logo" width="120" />
   <h1>Th3-Anime</h1>
   <br />
-  <h3>The Ultimate Anime Streaming Experience</h3>
+  <h3>The Ultimate Anime Experience</h3>
 
   [![Website](https://img.shields.io/website?url=https%3A%2F%2Fth3-anime.pages.dev&style=flat-square&label=th3-anime.pages.dev&logo=cloudflare&color=ff4757)](https://th3-anime.pages.dev)
   [![Platform](https://img.shields.io/badge/Platform-Android?style=flat-square&logo=android)](https://th3-anime.pages.dev)
   [![Status](https://img.shields.io/badge/Status-Active-2ed573?style=flat-square)]()
-  [![Buy Me A Coffee](https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/th3coder)
-  [![Buy Me A Chai](https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Chai-FFDDFF?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeachai.ezee.li/Th3Coder)
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/Th3-C0der)
+  [![Buy Me A Chai](https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Chai-8B4513?style=flat-square&logoColor=white)](https://buymeachai.ezee.li/Th3Coder)
   [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Kzf3pMBQx2)
-  
 
   <p>
-    <b>Th3-Anime</b> is a premium, high-performance mobile application designed for anime enthusiasts. Built with modern technology to deliver a seamless, ad-free streaming experience directly to your Android device.
+    <b>Th3-Anime</b> is a high-performance mobile application built for anime enthusiasts. Designed with modern technology to deliver a smooth, fast, and distraction-free viewing experience on Android devices.
   </p>
 </div>
 
@@ -21,19 +20,19 @@
 
 ## ✨ Features
 
-### 🎬 **Immersive Streaming**
-*   **High-Quality Playback**: Stream your favorite anime in HD quality without buffering.
-*   **Powerful Inbuilt Player**: Custom video player with gesture controls for brightness, volume, and seeking. Includes Chromecast support!
-*   **Sub & Dub**: Massive library available in both Subtitled and Dubbed versions.
+### 🎬 **Immersive Experience**
+*   **High-Quality Playback**: Enjoy smooth and optimized playback performance.
+*   **Powerful Inbuilt Player**: Custom video player with gesture controls for brightness, volume, and seeking. Includes Chromecast support.
+*   **Sub & Dub Support**: Watch content in your preferred language format.
 
 ### 🚀 **Smart & Connected**
-*   **Auto-Updater**: The app automatically checks for updates via our custom API, keeping you on the bleeding edge.
-*   **No Account Required**: Jump straight into watching. No sign-ups, no hidden fees.
-*   **Download Offline**: Save episodes to your device and watch anywhere, anytime.
+*   **Auto-Updater**: Automatically checks for updates via our custom API.
+*   **No Account Required**: Start instantly with no sign-ups.
+*   **Offline Access**: Save episodes locally for convenience.
 
 ### 🎨 **Beautiful Design**
-*   **Modern UI/UX**: Sleek, dark-themed interface inspired by the best modern design principles.
-*   **Personalization**: Manage your 'My List' and keep track of your favorites.
+*   **Modern UI/UX**: Sleek dark-themed interface with a clean layout.
+*   **Personalization**: Manage favorites and continue watching easily.
 
 ---
 
@@ -59,11 +58,11 @@ The latest version is always available via our official website.
 
 ## 💖 Support the Project
 
-Th3-Anime is a passion project developed by **Th3-C0der**. If you enjoy the app and want to support its development, server costs, or just buy me a coffee, it is greatly appreciated!
+Th3-Anime is a passion project developed by **Th3-C0der**. If you enjoy the app and want to support its development or server costs, it is greatly appreciated.
 
 <div align="center">
-  <a href="https://buymeacoffee.com/th3coder">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
+  <a href="https://github.com/sponsors/Th3-C0der" target="_blank">
+    <img src="https://img.shields.io/badge/%20Sponsor%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -73,20 +72,18 @@ Th3-Anime is a passion project developed by **Th3-C0der**. If you enjoy the app 
   </a>
 </p>
 
-Add this section right before the **Support the Project** section (or after Download):
-
 ---
 
 ## ⚠️ Disclaimer
 
-**Th3-Anime does not host, upload, or store any anime content on its servers.**
+**Th3-Anime does not host or store any media on its servers.**
 
-All anime titles, episodes, streams, and media files are provided by **third-party sources** publicly available on the internet. Th3-Anime acts solely as a **content discovery and streaming interface**.
+All content is provided by publicly available third-party services. Th3-Anime functions solely as an interface for browsing and accessing externally hosted media.
 
-* We do **not** own any of the media content.
-* We do **not** control third-party servers.
-* If you are a copyright owner and believe your content should not be accessible through this app, please contact the respective hosting provider directly.
+* We do not own or control any third-party content.
+* Availability may vary depending on external providers.
+* For concerns regarding specific media, please contact the respective hosting provider directly.
 
-By using this application, you acknowledge that all content is sourced from third-party services.
+By using this application, you acknowledge that content is sourced externally.
 
 &copy; 2026 **Th3-C0der**. All Rights Reserved.
