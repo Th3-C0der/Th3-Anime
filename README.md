@@ -74,16 +74,9 @@ Th3-Anime is a passion project developed by **Th3-C0der**. If you enjoy the app 
 
 ---
 
-## ⚠️ Disclaimer
+> [!IMPORTANT]
+Legal Disclaimer / DMCA: Th3-Anime does not host, store, upload, or distribute any media files on its servers. This project functions solely as a client interface that indexes and provides access to content from publicly available third-party sources.
+Th3-Anime does not own or control any third-party content, and availability may vary depending on external providers.
+For copyright or legal concerns regarding specific media, please contact the respective hosting providers or rights holders directly.
 
-**Th3-Anime does not host or store any media on its servers.**
-
-All content is provided by publicly available third-party services. Th3-Anime functions solely as an interface for browsing and accessing externally hosted media.
-
-* We do not own or control any third-party content.
-* Availability may vary depending on external providers.
-* For concerns regarding specific media, please contact the respective hosting provider directly.
-
-By using this application, you acknowledge that content is sourced externally.
-
-&copy; 2026 **Th3-C0der**. All Rights Reserved.
+&copy; 2026 **Th3-Anime** by **Th3-C0der**. All Rights Reserved.
